@@ -1,5 +1,5 @@
 # CO2-ECO-TRACKER
-#  CO₂ Footprint Tracker
+
 
 A mobile application built with **Flutter** and **Firebase** that empowers users to log, track, and reduce their personal carbon footprint. The app combines activity tracking, AI-powered recommendations, a community feed, gamification, and a rewards system to keep users engaged in their sustainability journey.
 
