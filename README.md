@@ -87,7 +87,7 @@ Although built using Flutter, cross-platform validation on iOS has not yet been 
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 | Type | Coverage | Files |
 |---|---|---|
@@ -134,7 +134,7 @@ lib/
 
 ---
 
-## ⚙️ Setup
+##  Setup
 
 ### Prerequisites
 - Flutter SDK `^3.11.0`
@@ -163,7 +163,7 @@ touch .env
 flutter run
 ```
 
-### 🤖 Local Food Detection Model Setup (Python)
+###  Local Food Detection Model Setup (Python)
 The app uses a local FastAPI server to run a custom ONNX Vision model (converted from Hugging Face `nateraw/food`) for food recognition. After the model recognizes the food, the Flutter app directly calls the USDA and Gemini APIs to fetch nutrition data.
 
 1. Open a new terminal and navigate to the model directory:
@@ -192,6 +192,6 @@ The app uses a local FastAPI server to run a custom ONNX Vision model (converted
 
 ---
 
-## 📄 License
+##  License
 
 This project is for educational purposes. All rights reserved © 2026.
