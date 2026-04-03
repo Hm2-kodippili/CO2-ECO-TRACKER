@@ -11,6 +11,11 @@ With growing awareness of climate change, individuals play a crucial role in red
 
 **CO₂ Footprint Tracker** was built to bridge this gap: making carbon awareness approachable, social, and rewarding through a modern mobile experience.
 
+## Platform Compatibility
+ 
+The current implementation of the CO₂ Footprint Tracker is focused on **Android platform deployment**.  
+Although built using Flutter, cross-platform validation on iOS has not yet been conducted and will be considered in future development phases.
+
 ---
 
 ##  Features
